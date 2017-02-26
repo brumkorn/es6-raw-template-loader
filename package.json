@@ -1,0 +1,11 @@
+{
+  "name": "raw-loader",
+  "version": "0.5.1",
+  "author": "Aleksey Shovgenia",
+  "description": "es6 template loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webpack/es6-template-loader.git"
+  },
+  "license": "MIT"
+}
