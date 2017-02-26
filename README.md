@@ -6,7 +6,7 @@ loader for import templates from text files(txt/html etc) as a default exported 
 
 ``` javascript
 import fileContent from './file.[extention]';
-// => returns file.txt content as a string for es6 default import
+// => returns file.[extention] content as a string for es6 default import
 ```
 Works with es6 module import in webpack 2
 
